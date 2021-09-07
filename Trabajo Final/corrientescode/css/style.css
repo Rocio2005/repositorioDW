@@ -110,11 +110,13 @@ h3 {
 }
 
 .hero {
+
     height: 450px;
     background-image: url(../img/chaco-corrientes.jpg);
     margin-bottom: 2rem;
     position: relative;
-    background-repeat: repeat;
+    background-position: 400%;
+    background-size:cover;
     
 }
 
